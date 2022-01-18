@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,aACE,oBAAqB,CACtB,eAGC,UAAY,CACZ,sBAAuB","file":"main.13e86f86.chunk.css","sourcesContent":[".button__red {\n  background-color: red;\n}\n\n.button__green {\n  color: white;\n  background-color: green;\n}\n"]}
